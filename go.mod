@@ -1,6 +1,6 @@
 module github.com/maxneuvians/copilot-proxy-chat
 
-go 1.22.2
+go 1.22.1
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.4
